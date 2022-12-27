@@ -7,3 +7,23 @@
 //  ["hello", "2", "world", ":-)"] -> ["2", ":-)"]
 //  ["1234", "1567", "-2", "computer csience"] -> ["-2"]
 //  ["Russia", "Denmark", "Kazan"] -> [] 
+
+
+// // Вид 2    
+// void Method2(string msg)
+// {
+//     Console.WriteLine(msg);
+// }
+// // Method2("Text");
+
+// void Method21(string msg, int count)
+// {
+//     int i = 0;
+//     while (i < count)
+//     {
+//         Console.WriteLine(msg);
+//         i ++;
+//     }
+// }
+// // Method21(msg: "Text", count: 4);
+// // Method21(count: 4, msg: "New text");
